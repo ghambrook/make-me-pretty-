@@ -1,0 +1,77 @@
+@charset "UTF-8";
+body {padding: 0;
+margin: 0; }
+img{position: absolute; }
+.left_ear {
+	left: 1150px;
+	top:600px;
+	opacity: 1;
+	transition: opacity 0.2s;
+}
+.left_ear:hover{
+	opacity: 0;
+}
+.right_eye {
+	left: 1500px;
+	top: 610px;
+	opacity: 1;
+	transition: opacity 0.2s;
+} 
+.right_eye:hover{
+	opacity: 0;
+}
+.right_ear{
+	left: 1710px;
+	top: 610px;
+	opacity: 1;
+	transition: opacity 0.2s;
+}
+.right_ear:hover{
+	opacity: 0;
+}
+.nose {
+	left: 1440px;
+	top: 680px;
+	opacity: 1;
+	transition: opacity 0.2s;
+}
+.nose:hover{
+	opacity: 0;
+}
+.right_brow {
+	left: 1550px;
+	top: 555px;
+	opacity: 1;
+	transition: 0.2s;
+}
+.right_brow:hover{
+	opacity: 0;
+}
+.left_brow {
+	left: 1280px;
+	top: 530px;
+	opacity: 1;
+	transition: 0.2s;
+}
+.left_brow:hover{
+	opacity: 0;
+}
+.lips {
+	left: 1380px;
+	top: 830px;
+	opacity: 1;
+	transition: 0.2s;
+}
+.lips:hover{
+	opacity: 0;
+}
+.left_eye {
+	left:1280px;
+	top: 615px;
+	opacity: 1;
+	transition: 0.2s
+}
+.left_eye:hover{
+	opacity: 0;
+}
+
